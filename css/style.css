@@ -1,0 +1,10 @@
+.navbar-wrapper
+{
+	margin-bottom: 0px;
+	color:blue;
+}
+
+.nav navbar-nav
+{
+	padding-left: 20px;
+}
